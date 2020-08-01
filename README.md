@@ -1,7 +1,16 @@
 ### Hi there 👋
 
+I am Software Engineer from Nigeria.
 <!--
 **Abubakarharuna10/Abubakarharuna10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+## 📬 Get in touch
+
+- Twitter: [https://twitter.com/Abbanso1][3]
+- Web: [https://Abba.abbaharuna.repl.co][1]
+- LinkedIn: [https://www.linkedin.com/in/abubakarharuna10][2]
+
 
 Here are some ideas to get you started:
 
