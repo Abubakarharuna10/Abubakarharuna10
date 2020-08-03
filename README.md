@@ -1,6 +1,6 @@
 ### Hi there, I'm Abba Haruna 👋
 
-## I Am Software Engineer from Nigeria!
+## I'm Software Engineer from Nigeria!
 - 🔭 I’m currently working on a [Computer Vision]!
 - 🌱 I’m currently learning Deep Tech 🤣
 - 👯 I’m looking to collaborate with other's
