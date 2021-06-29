@@ -53,9 +53,7 @@
 
 <hr>
 
-
-
-<h3> 🤝🏻 Connect with Me </h3>
+  Thanks for stopping by 😁<br/>
 
 <br>
 
