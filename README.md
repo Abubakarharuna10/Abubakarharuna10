@@ -21,9 +21,7 @@
 
 
 
-- 💻 &nbsp; Python | Django | Flask | FastAPI | Postgresql | MySQL
-
-- 🥅 &nbsp;  AI | TensorFlow | Pytouch | Caffe | & More
+- 💻 &nbsp; Python | Web | AI |
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
