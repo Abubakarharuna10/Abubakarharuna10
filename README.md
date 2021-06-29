@@ -51,7 +51,7 @@
 
 <br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
+[![Shivam's GitHub Stats](https://github.com/Abubakarharuna10/Abubakarharuna10/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif)](https://github.com/abubakarharuna10)
 
 <br/>
 
