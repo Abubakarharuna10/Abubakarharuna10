@@ -51,8 +51,7 @@
 
 <br/>
 
-[![Shivam's GitHub Stats](https://github.com/Abubakarharuna10/Abubakarharuna10/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif)](https://github.com/abubakarharuna10)
-
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 <br/>
 
 
