@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about Machine Learning,DeepLearning and Systems Design.
 
-- ✍️ &nbsp; Pursuing AI for IoT as hobbies/software Development.
+- ✍️ &nbsp; Pursuing AI for IoT as hobbies / software Development.
 
 - 👯 Happy to collaborate with other's.
 
@@ -21,7 +21,7 @@
 
 
 
-- 💻 &nbsp; Python | AI/IoT | Web Dev |
+- 💻 &nbsp; Python | AI / IoT | Web Dev |
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
