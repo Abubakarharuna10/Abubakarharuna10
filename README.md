@@ -21,7 +21,7 @@
 
 
 
-- 💻 &nbsp; Python | Web | AI |
+- 💻 &nbsp; Python | AI/IoT | Web Dev |
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
