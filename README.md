@@ -59,7 +59,7 @@
 <br><br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
+![Top Langs](https://github.com/Abubakarharuna10/Abubakarharuna10/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif)
 
 <hr>
 
