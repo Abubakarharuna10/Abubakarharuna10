@@ -59,12 +59,6 @@
 
 
 
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
 <div align="center">
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
@@ -83,6 +77,12 @@
  </a> 
   <br/>
   <br/>
+
+<br>
+
+
+
+
   Thanks for stopping by 😁<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
