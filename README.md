@@ -47,14 +47,15 @@
 
 <br/><br/>
 
-[![Abubakar's GitHub Stats](https://github.com/Abubakarharuna10/Abubakarharuna10/blob/master/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73686976616d303131302673686f775f69636f6e733d74727565.svg)
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam0110&show_icons=true)](https://github.com/shivam0110)
 
 <br/>
 
 <br/>
 
-<img src="https://github.com/Abubakarharuna10/Abubakarharuna10/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>)
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0110&show_icons=true)
 
 <br><br>
 
