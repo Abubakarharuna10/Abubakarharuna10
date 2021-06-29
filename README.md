@@ -1,5 +1,6 @@
 ### Hi there, I'm Abba Haruna 👋
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## Software Engineer!
 - 🔭 I’m currently working on a [Computer Vision]!
 - 🌱 I’m currently learning Deep Tech 🤣
