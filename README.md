@@ -2,43 +2,43 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻•💻 ABOUT ME </h3>
 
 
 
 - 🤔 &nbsp; Exploring AI for IoT and developing software solutions and quick hacks.
-
+<!-- 
 - 🎓 &nbsp; Studying Physics at Auk and coding stuffs.
 
-- 🌱 &nbsp; Learning about Machine Learning,DeepLearning and Systems Design.
+- 🌱 &nbsp; Learning about Machine Learning,DeepLearning and Systems Design. -->
 
 - ✍️ &nbsp; Pursuing AI for IoT as hobbies / software Development.
 
 - 👯 Happy to collaborate with other's.
 
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 TECH STACK</h3>
 
 
 
-- 💻 &nbsp; Machine Learning/Deeplearning |Software Development | Linux |
+- 💻 &nbsp; Machine Learning / Deeplearning | Software Development | Linux 
 
 - 🌐 &nbsp; Python | Rust | Dart | C++ | Golang | JavaScript
 
   
   <h3>🛠 Database </h3>
 
-- 🛢 &nbsp; MySQL | MongoDB | Postgres | GraphQL | TypeOrm
+- 🛢 &nbsp; MySQL | MongoDB | Postgres | GraphQL | Sqlite | TypeOrm
 
 
   <h3>🛠 Version Control </h3>
 
-- 🔧 &nbsp; Git | Jenkins | Gitlab | Agile
+- 🔧 &nbsp; GitHub | Jenkins | Gitlab | Bitbucket | Monotone 
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+<!-- - 🖥 &nbsp; Illustrator| Photoshop | InDesign -->
 
 
-<h3>🛠 Cloud Systems </h3>
+  <h3>🛠 Cloud Systems </h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | GCP | 
 
