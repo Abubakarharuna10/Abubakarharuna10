@@ -21,25 +21,26 @@
 
 
 
-- 💻 &nbsp; Python | AI / IoT | Web Dev |
+- 💻 &nbsp; Machine Learning/Deeplearning |Software Development | Linux |
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; Python | Rust | Dart | C++ | Golang | JavaScript
 
-<!--
+  
+  <h3>🛠 Database </h3>
 
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; MySQL | MongoDB | Postgres | GraphQL | TypeOrm
 
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
+
+  <h3>🛠 Version Control </h3>
+
+- 🔧 &nbsp; Git | Jenkins | Gitlab | Agile
 
 - 🖥 &nbsp; Illustrator| Photoshop | InDesign
 
--->
 
+<h3>🛠 Cloud Systems </h3>
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | flask
+- 🔧 &nbsp; AWS | Docker🐳 | GCP | 
 
 <hr>
 
