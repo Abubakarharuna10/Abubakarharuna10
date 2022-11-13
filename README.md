@@ -12,7 +12,7 @@
 
 - 🌱 &nbsp; Learning about Machine Learning,DeepLearning and Systems Design. -->
 
-- ✍️ &nbsp; Pursuing AI for IoT as hobbies / software Development.
+- ✍️ &nbsp; Pursuing AI for IoT as hobbies / Software Development.
 
 - 👯 Happy to collaborate with other's.
 
