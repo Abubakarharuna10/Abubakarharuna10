@@ -59,16 +59,22 @@
 
 
 
-<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<a href="https://stackoverflow.com/">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
 
-<a href="https://instagram.com/rit_08_/">
+<a href="https://instagram.com/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
 
-<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
+<a href="https://www.linkedin.com/in/abubakarharuna10/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-#### mail: mritvikprasad@gmail.com
+#### mail: abbaphy@gmail.com
 
 ## Reach Me ☝️☝️☝️
