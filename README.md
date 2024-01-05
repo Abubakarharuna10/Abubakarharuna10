@@ -61,9 +61,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<br>
-
-
 
 <a href="https://stackoverflow.com/">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
