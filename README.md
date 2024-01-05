@@ -65,10 +65,16 @@
 
 
 
-<p align="center">
+<a href="https://stackoverflow.com/">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
 
-<a href="https://www.linkedin.com/in/abubakarharuna10/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-abubakarharuna10%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://instagram.com/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
-<a href="mailto:abbanso10@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abbanso10@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
-</p>
+<a href="https://www.linkedin.com/in/abubakarharuna10/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+#### mail: abbaphy@gmail.com
+
+## Reach Me ☝️☝️☝️
