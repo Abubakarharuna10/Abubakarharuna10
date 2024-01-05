@@ -77,6 +77,6 @@ Now I don't know how to quit !
 
 
 -----
-Credits: [Tushar Gupta](https://github.com/Tushargupta9800)
+Credits: [Abba Haruna](https://github.com/abubakarharuna10)
 
-Last Edited on: 26/10/2021
+Last Edited on: 26/10/2024
