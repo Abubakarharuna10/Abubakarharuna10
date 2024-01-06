@@ -26,13 +26,13 @@ Now I don't know how to quit !
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a Flutter (Frontend) + python (Backend) project
+- 🔭 I’m currently working on a software development solutions project
 
-- 🌱 I’m currently learning python + Machine Learning 
+- 🌱 I’m currently Pursuing AI for IoT as hobbies 
 
 - 👯 I’m looking to collaborate on Projects
 
-- 💬 Talk to me about Flutter, Competitve Programming, C, C++, Python, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Flutter, Competitive Programming, Dart, JavaScript Python, Freelancing opportunities, Open Source 
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/Tushargupta9800?tab=repositories&q=&type=&language=flutter&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
