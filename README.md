@@ -34,7 +34,6 @@ Now I don't know how to quit!
 
 - 💬 Talk to me about Python, Flutter, Golang,  JavaScript,  Freelancing opportunities, Open Source 
 
-<h2> Skills </h2>
 <div align="center">
   <h3>Languages<h3/>
 
@@ -90,7 +89,7 @@ Now I don't know how to quit!
     <img src="https://skillicons.dev/icons?i=linux,arduino,vscode,raspberrypi,selenium&perline=" />
   </a>
 
-<br/>
+<br/> </div>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/abubakarharuna10/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
