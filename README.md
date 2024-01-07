@@ -75,7 +75,7 @@ Now I don't know how to quit!
 
 <h3> Additional </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,openvinotool&perline=" />
+    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,openvinotoolkit&perline=" />
   </a>
 
 <br/> </div>
