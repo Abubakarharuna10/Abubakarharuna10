@@ -46,11 +46,11 @@ Now I don't know how to quit!
  <a href= https://github.com/Tushargupta9800?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/tushar-gupta-6100561a0/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://twitter.com/Algoristy'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/Tushargupta9800'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  <a href = 'https://www.facebook.com/profile.php?id=100007887737954'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
-  <a href = 'https://www.instagram.com/tushar_gupta9800/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://www.linkedin.com/in/abubakarharuna10/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://twitter.com/abubakarharuna10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/abubakarharuna10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  <a href = 'https://www.facebook.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+  <a href = 'https://www.instagram.com//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
   <a href = 'https://codeforces.com/profile/tushargupta9800'> <img width = '32px' align= 'center' src="https://codeforces-upsolving-helper.herokuapp.com/static/images/codeforces-icon.png"/></a>
   <a href = 'https://www.codechef.com/users/algoristy'> <img width = '80px' align= 'center' src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/></a>
   <a href = 'https://leetcode.com/tushargupta9800/'> <img width = '32px' align= 'center' src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"/></a>
@@ -58,11 +58,10 @@ Now I don't know how to quit!
 <br>
   <br>
   
-[![@algoristy's Holopin board](https://holopin.me/algoristy)](https://holopin.io/@algoristy)
  
-[![Tushar's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tushargupta9800&theme=tokyonight)](https://git.io/praveenscience)
+[![Abba's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tushargupta9800&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Tushar's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Tushar GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
+| ![Abba's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Abba GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargupta9800&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
