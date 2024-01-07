@@ -55,10 +55,10 @@ Now I don't know how to quit!
 <br/>
 
 
-  <h3>Tools</h3>
+  <h3>Database</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix,&perline=" />
+    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,&perline=" />
   </a>  
 
   <br/>
