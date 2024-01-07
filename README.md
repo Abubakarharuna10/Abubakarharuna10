@@ -68,7 +68,7 @@ Now I don't know how to quit!
 
   <h3>Cloud Systems</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,prisma,supabase&perline=" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,render,prisma,supabase&perline=" />
   </a>
 
 <br/>
