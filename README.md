@@ -75,7 +75,7 @@ Now I don't know how to quit!
 
 <h3> Additional </h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi,openvinotoolkit&perline=" />
+    <img src="https://skillicons.dev/icons?i=linux,arduino,raspberrypi&perline=" />
   </a>
 
 <br/> </div>
@@ -93,7 +93,7 @@ Now I don't know how to quit!
   
 
 
-| ![Abba's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Abba GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
+| ![Abba's github stats](https://github-readme-stats.vercel.app/api?username=Abubakarharuna10&show_icons=true&theme=tokyonight) | ![Abba GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abubakarharuna10&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarharuna10&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
