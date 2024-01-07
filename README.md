@@ -92,7 +92,7 @@ Now I don't know how to quit!
   <br>
   
  
-[![Abba's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tushargupta9800&theme=tokyonight)](https://git.io/praveenscience)
+[![Abba's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abubakarharuna10&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Abba's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Abba GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
 | --- | --- |
