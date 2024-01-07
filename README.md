@@ -51,9 +51,7 @@ Now I don't know how to quit!
 <a href = 'https://www.github.com/abubakarharuna10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   <a href = 'https://www.facebook.com/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
   <a href = 'https://www.instagram.com//'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-  <a href = 'https://codeforces.com/profile/tushargupta9800'> <img width = '32px' align= 'center' src="https://codeforces-upsolving-helper.herokuapp.com/static/images/codeforces-icon.png"/></a>
-  <a href = 'https://www.codechef.com/users/algoristy'> <img width = '80px' align= 'center' src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Codechef%28new%29_logo.svg/1200px-Codechef%28new%29_logo.svg.png"/></a>
-  <a href = 'https://leetcode.com/tushargupta9800/'> <img width = '32px' align= 'center' src="https://leetcode.com/static/images/LeetCode_logo_rvs.png"/></a>
+  
 <br>
 <br>
   <br>
