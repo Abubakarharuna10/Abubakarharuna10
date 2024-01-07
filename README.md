@@ -35,6 +35,63 @@ Now I don't know how to quit!
 - 💬 Talk to me about Python, Flutter, Golang,  JavaScript,  Freelancing opportunities, Open Source 
 
 <h2> Skills </h2>
+<div align="center">
+  <h3>Languages<h3/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
+  </a>
+
+<br/>
+
+
+  <h3>Frameworks & Libraries<h3/>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,django,express,tailwind,bootstrap,nodejs,jest,firebase,vite,tensorflow,pytorch,&perline=6" />
+  </a>
+
+<br/>
+
+
+  <h3>Tools of Trade </h3>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,mongodb,mysql,sqlite,postgresql,vite,webpack,postman,regex,remix,&perline=" />
+  </a>  
+
+  <br/>
+
+   <img src='https://github.com/marwin1991/profile-technology-icons/assets/136815194/7e9599e9-0570-4bb6-b17f-676ed589912f' width=45></img>
+   <img src='https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png' width=45></img>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/512px-Kali-dragon-icon.svg.png' width=45></img>
+   <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhbH-UpHQMdmoB1pVQ9L7jH88u6H15isaxQQ&usqp=CAU' width=45></img>
+   <img src='https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/wireshark/images/wireshark-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/bettercap/images/bettercap-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/netcat/images/netcat-logo.svg' width=45></img>
+   <img src='https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg' width=45></img>
+
+<br/>
+
+
+  <h3>Would Love to Learn </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=" />
+  </a>
+
+<br/>
+
+<h3> Additional </h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,arduino,vscode,raspberrypi,selenium&perline=" />
+  </a>
+
+<br/>
+
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/abubakarharuna10/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/abubakarharuna10'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
