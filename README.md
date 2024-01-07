@@ -32,13 +32,13 @@ Now I don't know how to quit!
 
 - 👯 I’m looking to collaborate on Projects
 
-- 💬 Talk to me about Python, Flutter, Golang,  JavaScript,  Freelancing opportunities, Open Source 
+- 💬 Talk to me about Full Stack Development 
 
 <div align="center">
   <h3>Languages<h3/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,python,java,cpp,c,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=bash,python,dart,html,css,javascript,typescript,solidity,powershell,octave,matlab,r,lua,md&perline=8" />
   </a>
 
 <br/>
