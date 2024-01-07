@@ -26,9 +26,9 @@ Now I don't know how to quit!
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on a software development solutions project
+- 🔭 I’m currently working on a Software Development
 
-- 🌱 I’m currently Pursuing AI for IoT as hobbies 
+- 🌱 I’m Pursuing AI for IoT as hobbies 
 
 - 👯 I’m looking to collaborate on Projects
 
