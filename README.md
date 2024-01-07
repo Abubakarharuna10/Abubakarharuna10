@@ -96,7 +96,7 @@ Now I don't know how to quit!
 
 | ![Abba's github stats](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&theme=tokyonight) | ![Abba GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushargupta9800&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargupta9800&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abubakarharuna10&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tushargupta9800&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
  </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
