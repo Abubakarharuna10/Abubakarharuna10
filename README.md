@@ -66,9 +66,9 @@ Now I don't know how to quit!
 <br/>
 
 
-  <h3>Would Love to Learn </h3>
+  <h3>Cloud Systems</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,rust,ruby,prisma,redis,supabase&perline=" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,prisma,supabase&perline=" />
   </a>
 
 <br/>
