@@ -58,7 +58,7 @@ Now I don't know how to quit!
   <h3>Database</h3>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typeorm,mongodb,mysql,sqlite,postgresql,&perline=" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb,&perline=" />
   </a>  
 
   <br/>
