@@ -40,7 +40,7 @@ Now I don't know how to quit!
   <h3>Languages<h3/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,dart,html,css,javascript,typescript,golang,powershell,md&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,dart,html,css,javascript,typescript,golang" />
   </a>
 
 <br/>
