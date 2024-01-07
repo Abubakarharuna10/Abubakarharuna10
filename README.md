@@ -49,7 +49,7 @@ Now I don't know how to quit!
   <h3>Frameworks & Libraries<h3/>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,django,flask,fastapi,express,tailwind,bootstrap,nodejs,firebase,vite,tensorflow,pytorch,sklearn,skimage,numpy,pandas,&perline=6" />
+    <img src="https://skillicons.dev/icons?i=react,next,django,flask,fastapi,express,tailwind,bootstrap,nodejs,firebase,vite,tensorflow,pytorch,sklearn,Skimage,numpy,pandas,&perline=6" />
   </a>
 
 <br/>
